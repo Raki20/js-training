@@ -82,7 +82,7 @@ console.log(coords[3][0])
 
 // But, you have to becarefull not to try to access a property that
 // doesn't exsist, uncomment this line to have an exemple of error :
-// console.log(coords[151][0])
+console.log(coords[151][0])
 
 // Since keys are strings, we can use variables values to access our structures
 const myKey = 'name'

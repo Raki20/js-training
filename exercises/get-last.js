@@ -9,6 +9,9 @@
 
 // Your code :
 
+function getLast () { [2, 42]};
+return getLast [2];
+
 //* Begin of tests
 const assert = require('assert')
 
